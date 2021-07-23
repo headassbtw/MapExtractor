@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapExtractor", "LinuxTest\MapExtractor.csproj", "{0C4061A0-7ACD-47F2-99BB-220C59E04749}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapExtractor", "MapExtractor\MapExtractor.csproj", "{0C4061A0-7ACD-47F2-99BB-220C59E04749}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
